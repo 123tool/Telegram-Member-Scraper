@@ -28,3 +28,28 @@ git clone [https://github.com/123tool/Telegram-Member-Scraper.git)
 cd Telegram-Member-Scraper
 pip install -r requirements.txt
 python main.py
+
+```
+### 🐧 Di Linux
+```bash
+sudo apt update
+sudo apt install python3 python3-pip git
+git clone [https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git](https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git)
+cd NAMA_REPO_KAMU
+pip3 install -r requirements.txt
+python3 main.py
+
+```
+### 📖 Cara Penggunaan
+1. ​Buka file main.py menggunakan teks editor (seperti Notepad, VS Code, atau Nano).
+2. ​Masukkan API_ID, API_HASH, dan PHONE (Nomor HP akun Telegram kamu) pada bagian konfigurasi.
+3. ​Jalankan skrip dengan perintah python main.py.
+4. ​Masukkan kode OTP yang dikirim ke Telegram kamu.
+5. ​Masukkan username grup target (contoh: grup_diskusi_it) tanpa tanda @.
+6. ​Tunggu hingga proses selesai, file .csv akan muncul di folder yang sama.
+
+### ​⚠️ Catatan Penting
+​Gunakan alat ini dengan bijak. Penyalahgunaan untuk spamming bukan tanggung jawab pengembang.
+​Beberapa grup menyembunyikan daftar anggotanya (Hidden Members). Jika fitur tersebut aktif, skrip ini tidak akan bisa mengambil data secara penuh kecuali kamu adalah Admin.
+
+***​Developed by : SPY-E Building automated solutions for better productivity.***
