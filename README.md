@@ -1,4 +1,4 @@
-# 🛡️ Telegram Member Scraper - By SPY-E
+# 🛡️ Telegram Member Scraper
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -24,7 +24,7 @@ Sebelum menjalankan, pastikan kamu sudah memiliki:
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone [https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git](https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git)
-cd NAMA_REPO_KAMU
+git clone [https://github.com/123tool/Telegram-Member-Scraper.git)
+cd Telegram-Member-Scraper
 pip install -r requirements.txt
 python main.py
